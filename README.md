@@ -8,7 +8,7 @@
 
 # License
 
-This software based on Mucom88win.
+This software based on Mucom88win at " <a href="https://github.com/onitama/mucom88/">https://github.com/onitama/mucom88/</a> " by Onitama.
 
 This software contains fmgen.
 
